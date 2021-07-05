@@ -1,0 +1,142 @@
+{
+    "elevators": [
+        [
+            "Service",
+            "Station",
+            "Location",
+            "Reason",
+            "Estimated Return",
+            "Alternate Access"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#701 - Station Access",
+            "Repair",
+            "TBD",
+            "Use other elevator or stairs"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#705 - Northbound Mezzanine to Surface",
+            "Repair",
+            "TBD",
+            "Use other elevator or stairs"
+        ]
+    ],
+    "escalators": [
+        [
+            "Service",
+            "Station",
+            "Location",
+            "Reason",
+            "Estimated Return",
+            "Alternate Access"
+        ],
+        [
+            "Link",
+            "SeaTac Station",
+            "#4 - Station Access",
+            "Scheduled Maintenance",
+            "7/2",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Westlake Station",
+            "#304 - Southbound Platform to Mezzanine",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Westlake Station",
+            "#307 - Down, Surface to Mezzanine, Macy's",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Westlake Station",
+            "#316 - Down, Surface to Mid Nordstrom's",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "University Street Station",
+            "#505 - Mezzanine to Surface",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "University Street Station",
+            "#511 - Southbound Up, Mezzanine to Surface",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#702 - Up, Southbound Platform to Mezzanine",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#704 - Southbound platform to mezzanine",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#705 - Northbound mezzanine to Surface",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#706 - Northbound mezzanine to surface",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#707 - Northbound mezzanine to surface",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "Pioneer Square Station",
+            "#709 - Up, Southbound Mezzanine to Surface",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ],
+        [
+            "Link",
+            "International District/Chinatown Station",
+            "#904 - Up, Southbound Platform to Plaza",
+            "Repair",
+            "TBD",
+            "Use stairs or elevator"
+        ]
+    ]
+}
