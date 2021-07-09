@@ -1,6 +1,8 @@
 "Type","Service","Station","Location","Reason","Estimated Return","Alternate Access"
+"Elevator","Link","Beacon Hill Station","#2 - Station Access","Scheduled Maintenance","7/9","Use other elevator or stairs"
 "Elevator","Link","Westlake Station","#305 - Station Access","Entrance Closed For Repair","TBD","Use other elevator or stairs"
 "Elevator","Link","Pioneer Square Station","#705 - Northbound Mezzanine to Surface","Repair","TBD","Use other elevator or stairs"
+"Escalator","Link","Tukwila International Blvd Station","#4 - Station Access","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#304 - Southbound Platform to Mezzanine","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#305 - Station Access","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#307 - Down, Surface to Mezzanine, Macy's","Repair","TBD","Use stairs or elevator"
