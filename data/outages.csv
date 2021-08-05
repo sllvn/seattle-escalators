@@ -2,6 +2,7 @@
 "Elevator","-","All","All Elevators in Service","-","-","-"
 "Escalator","Link","Westlake Station","#307 - Down, Surface to Mezzanine, Macy's","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#316 - Down, Surface to Mid Nordstrom's","Repair","TBD","Use stairs or elevator"
+"Escalator","Link","University Street Station","#501 - Station Access","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","University Street Station","#511 - Southbound Up, Mezzanine to Surface","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Pioneer Square Station","#702 - Up, Southbound Platform to Mezzanine","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Pioneer Square Station","#705 - Northbound mezzanine to Surface","Repair","7/30","Use stairs or elevator"
