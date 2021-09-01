@@ -1,4 +1,5 @@
 "Type","Service","Station","Location","Reason","Estimated Return","Alternate Access"
+"Elevator","Sounder","Auburn Station","#2 - Parking Garage","Repair","9/2","Use other elevator"
 "Elevator","Link","Beacon Hill Station","#3 - Station Access","Scheduled Maintenance","9/3","Use other elevator, escalators, or stairs"
 "Escalator","Link","Westlake Station","#307 - Down, Surface to Mezzanine, Macy's","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#316 - Down, Surface to Mid Nordstrom's","Repair","TBD","Use stairs or elevator"
