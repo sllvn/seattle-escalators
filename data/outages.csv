@@ -1,5 +1,6 @@
 "Type","Service","Station","Location","Reason","Estimated Return","Alternate Access"
 "Elevator","Link","University Street Station","#506 - Surface to Mezzanine","Repair","TBD","Use elevators at Benaroya Hall or enter on 2nd Ave"
+"Escalator","Link","Capital Hill Station","#5 - Station Access","Damage","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#302 - Station Access","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#307 - Down, Surface to Mezzanine, Macy's","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Westlake Station","#309 - Station Access","Damage","TBD","Use stairs or elevator"
