@@ -1,4 +1,5 @@
 "Type","Service","Station","Location","Reason","Estimated Return","Alternate Access"
+"Elevator","Link","Pioneer Square Station","#701 - Station Access","Repair","TBD","Use stairs or escalator"
 "Elevator","Link","Pioneer Square Station","#705 - Station Access","Scheduled Maintenance","TBD","Use stairs or escalator"
 "Elevator","Link","OMF Central","Passenger Elevator","Repair","TBD","Use stairs or escalator"
 "Escalator","Link","Westlake Station","#302 - Station Access","Repair","TBD","Use stairs or elevator"
