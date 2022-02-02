@@ -1,5 +1,4 @@
 "Type","Service","Station","Location","Reason","Estimated Return","Alternate Access"
-"Elevator","N Line","Everett Station","#001 - Station Access","Repair","TBD","Use stairs or escalator"
 "Elevator","Link","Westlake Station","#301 - Station Access","Repair","TBD","Use stairs or escalator"
 "Elevator","Link","University Street Station","#506 - Station Access","Repair","2/1","Use stairs or escalator"
 "Elevator","Link","Pioneer Square Station","#705 - Station Access","Repair","2/4","Use stairs or escalator"
@@ -16,6 +15,7 @@
 "Escalator","Link","International District/ Chinatown Station","#904 - Station Access","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","Tukwila International Boulevard Station","#008 - Station Access","Repair","TBD","Use stairs or elevator"
 "Escalator","Link","SeaTac Station","#001 - Station Access","Repair","TBD","Use stairs or elevator"
+"Elevator","N Line","Everett Station","#001 - Station Access","Repair","TBD","Use stairs or escalator"
 "Elevator","N Line","Everett Station","#001 - Station Access","Repair","1/31","Use stairs or escalator"
 "Elevator","Link","University Street Station","#506 - Station Access","Repair","TBD","Use stairs or escalator"
 "Elevator","Link","Pioneer Square Station","#705 - Station Access","Repair","TBD","Use stairs or escalator"
