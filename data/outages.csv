@@ -4,8 +4,6 @@
 "Elevator","Link","University Street Station","#506 - Station Access","Mechanical","Tentative 1/15/23"
 "Elevator","Link","Pioneer Square Station","#701 - Station Access","Mechanical","4/30/23"
 "Elevator","ST Express","South Bellevue Garage","#001 - Garage Access","Mechanical","TBD"
-"Escalator","Northgate Station","#005 - Station Access","Mechanical","Tentative
-			10/25"
 "Escalator","Westlake Station","#302 - Station Access","Scheduled Maintenance","Tentative 11/11"
 "Escalator","Westlake Station","#304 - Station Access","TBD","TBD"
 "Escalator","Westlake Station","#307 - Station Access","Mechanical","Tentative 11/11"
@@ -13,6 +11,8 @@
 "Escalator","University Street Station","#512 - Station Access","Misuse","Tentative 10/26"
 "Escalator","Pioneer Square Station","#706 - Station Access","Mechanical","Tentative 11/30"
 "Escalator","International District / Chinatown Station","#904 - Station Access","Environmental","Tentative 1/15/23"
+"Escalator","Northgate Station","#005 - Station Access","Mechanical","Tentative
+			10/25"
 "Elevator","Link","International District","#901 - Station Access","Environmental","TBD"
 "Elevator","Sounder","Auburn Station","#003 - Station Access","Environmental","TBD"
 "Escalator","Northgate Station","#003 - Station Access","Misuse","Tentative 10/24"
