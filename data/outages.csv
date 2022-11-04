@@ -1,10 +1,8 @@
 "Type","Service","Station","Location","Reason","Estimated Return"
-"Elevator","Link","University of Washington Station","#002 - Station Access","Entrapment/
-
-			Mechanical","Tentative
-			11/02"
+"Elevator","Link","University of Washington","#002 - Station Access","Mechanical","Tentative - 11/04"
 "Elevator","Link","Westlake Station","#301 - Station Access","Misuse","TBD"
 "Elevator","Link","Westlake Station","#305 - Station Access","Entrapment /
+
 			Mechanical","TBD"
 "Elevator","Link","Westlake Station","#307 - Station Access","Mechanical","Tentative 11/21"
 "Elevator","Link","University Street Station","#506 - Station Access","Mechanical","Tentative 1/15/23"
@@ -12,7 +10,8 @@
 "Elevator","Link","International District / Chinatown Station","#901 - Station Access","Mechanical","TBD"
 "Elevator","Link","SeaTac / Airport Station","#001 - Station Access","Scheduled maintenance","Tentative
 			11/12"
-"Elevator","ST Express","South Bellevue Garage","#001 - Garage Access","Mechanical","TBD"
+"Elevator","Sounder","Kent Station","#004 - Station Access","TBD","TBD"
+"Elevator","Sounder","Kent Station","#005 - Station Access","TBD","TBD"
 "Escalator","Westlake Station","#302 - Station Access","Scheduled Maintenance","Tentative 11/11"
 "Escalator","Westlake Station","#304 - Station Access","Mechanical","TBD"
 "Escalator","Westlake Station","#307 - Station Access","Mechanical","Tentative 12/16"
@@ -21,7 +20,12 @@
 "Escalator","University Street Station","#512 - Station Access","Misuse","Tentative -
 			11/21"
 "Escalator","Pioneer Square Station","#706 - Station Access","Mechanical","Tentative 11/30"
+"Escalator","International District / Chinatown Station","#902 - Station Access","Environmental","TBD"
 "Escalator","International District / Chinatown Station","#904 - Station Access","Environmental","Tentative 1/15/23"
+"Elevator","Link","University of Washington Station","#002 - Station Access","Entrapment/
+			Mechanical","Tentative
+			11/02"
+"Elevator","ST Express","South Bellevue Garage","#001 - Garage Access","Mechanical","TBD"
 "Elevator","Link","University of Washington Station","#002 - Station Access","Mechanical","TBD"
 "Elevator","Link","Westlake Station","#305 - Station Access","Mechanical","TBD"
 "Elevator","Link","Pioneer Square Station","#701 - Station Access","Mechanical","4/30/23"
@@ -45,7 +49,6 @@
 "Escalator","Westlake Station","#309 - Station Access","TBD","TBD"
 "Escalator","Westlake Station","#313 - Station Access","Mechanical","TBD"
 "Escalator","Westlake Station","#314 - Station Access","Mechanical","Tentative 10/26"
-"Escalator","International District / Chinatown Station","#902 - Station Access","Environmental","TBD"
 "Elevator","Link","Westlake Station","#301 - Station Access","Entrapment / Misuse","TBD"
 "Escalator","University Street Station","#503 - Station Access","Mechanical","Tentative 10/21"
 "Elevator","Link","International District / Chinatown Station","#901 - Station Access","Vandalism","TBD"
