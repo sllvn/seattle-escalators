@@ -1,3 +1,18 @@
+"Type","Station","Unit #","ADA critical","Location","Reason","Estimated return"
+"Elevator","Pioneer Square Station","#701","","Connecting platform to Northgate and north mezzanine","Mechanical","TBD"
+"Elevator","University Street Station","#506","Yes","Connecting south mezzanine to street level at 3rd Ave & Seneca St (Exit C)","Mechanical","Tentative - 2/17"
+"Elevator","Westlake Station","#301","","Southbound platform to mezzanine","Misuse","Tentative - 2/8"
+"Escalator","International District/
+
+			Chinatown Station","#904","From platform to Angle Lake to street level","Environmental","TBD"
+"Escalator","Pioneer Square Station","#704","Southbound platform to mezzanine - Up only","Mechanical","Tentative - 2/17"
+"Escalator","Sea Tac/Airport Station","#002","South station entrance from platform to street level - Up only","Power","TBD"
+"Escalator","Tukwila International
+			Boulevard Station","#008","Street level to mezzanine - Down only","Scheduled 
+			Maintenance","Tentative - 2/3"
+"Escalator","Westlake Station","#306","Mezzanine to Century Square - Up only","Mechanical","Tentative - 2/10"
+"Escalator","Westlake Station","#307","Mezzanine to street level - Down only","Mechanical","Tentative - 217"
+"Escalator","Westlake Station","#308","Street level to mezzanine - Up Only","Mechanical","Tentative - 2/9"
 "Type","Service","Station","Unit #","Location","Reason","Estimated return"
 "Elevator","Link","Westlake Station","#301","Southbound platform to mezzanine","Misuse","Tentative - 2/8"
 "Elevator","Link","University Street Station","#506","Connecting south mezzanine to street level at 3rd Ave & Seneca St (Exit C)","Mechanical","Tentative - 2/17"
@@ -24,7 +39,6 @@
 "Elevator","Link","Pioneer Square Station","#701","Connecting platform to Northgate and north mezzanine","Mechanical","Tentative - 3/24"
 "Elevator","Link","Pioneer Square Station","#706","Connecting south mezzanine to street level at 2nd Ave & Yesler Way (Exit C)","Misuse","TBD"
 "Elevator","Sounder","Auburn Parking Garage","#002","All levels of parking garage","Scheduled Maintenance","Tentative - 1/31"
-"Escalator","Westlake Station","#306","Mezzanine to Century Square - Up only","Mechanical","Tentative - 2/10"
 "Escalator","Westlake Station","#307","Mezzanine to street level - Down only","Mechanical","Tentative - 1/31"
 "Escalator","Westlake Station","#308","Mezzanine to Street level","Mechanical","Tentative - 2/9"
 "Escalator","University Street Station","#511","From south mezzanine to street level at Seneca St (Exit C)","Scheduled Maintenance","Tentative - 2/1"
@@ -344,7 +358,6 @@
 "Elevator","Link","SeaTac / Airport Station","#001 - Station Access","Scheduled maintenance","Tentative - 11/10"
 "Elevator","Link","University of Washington","#002 - Station Access","Mechanical","Tentative - 11/04"
 "Elevator","Link","Westlake Station","#305 - Station Access","Entrapment /
-
 			Mechanical","Tentative - 11/08"
 "Elevator","Link","University Street Station","#506 - Station Access","Mechanical","Tentative 12/16"
 "Elevator","Link","SeaTac / Airport Station","#001 - Station Access","Scheduled maintenance","Tentative
