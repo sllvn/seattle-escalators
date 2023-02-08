@@ -1,23 +1,30 @@
 "Type","Station","Unit #","ADA critical","Location","Reason","Estimated return"
 "Elevator","Capitol Hill Station","#003","","North station entrance connecting street level to mezzanine","Environmental","TBD"
-"Elevator","Mukilteo Station","#001","Yes","North side of Tracks - Street level to bridge","TBD","TBD"
+"Elevator","Mountlake Terrace Station","#001","Yes","Southbound I-5 side","Scheduled Maintenance","Tentative - 2/7"
+"Elevator","Mukilteo Station","#001","Yes","North side of Tracks - Street level to bridge","Mechanical","TBD"
 "Elevator","Pioneer Square Station","#701","","Connecting platform to Northgate and north mezzanine","Mechanical","TBD"
 "Elevator","University Street Station","#506","Yes","Connecting south mezzanine to street level at 3rd Ave & Seneca St (Exit C)","Mechanical","Tentative - 2/17"
 "Elevator","Westlake Station","#301","","Southbound platform to mezzanine","Misuse","Tentative - 2/8"
+"Elevator","Westlake Station","#302","","Northbound platform to mezzanine","Scheduled Maintenance","Tentative - 2/7"
 "Escalator","International District/
 
 			Chinatown Station","#904","From platform to Angle Lake to street level","Environmental","TBD"
 "Escalator","Pioneer Square Station","#704","Southbound platform to mezzanine - Up only","Mechanical","Tentative - 2/17"
+"Escalator","Roosevelt Station","#005","Intermediate landing to surface - South","Environmental","TBD"
 "Escalator","Sea Tac/Airport Station","#002","South station entrance from platform to street level - Up only","Power","TBD"
 "Escalator","Tukwila International
 			Boulevard Station","#004","South mezzanine to platform - Down only","Scheduled 
-			Maintenance","Tentative - 2/09"
+			Maintenance","Tentative - 2/9"
 			Boulevard Station","#008","Street level to mezzanine - Down only","Scheduled 
 			Maintenance","Tentative - 2/7"
 "Escalator","University Street Station","#506","Northbound street level to mezzanine - Down only","Mechanical","TBD"
+"Escalator","Westlake Station","#301","Southbound platform to mezzanine - Up only","Environmental","Tentative - 2/8"
 "Escalator","Westlake Station","#306","Mezzanine to Century Square - Up only","Mechanical","Tentative - 2/10"
 "Escalator","Westlake Station","#307","Mezzanine to street level - Down only","Mechanical","Tentative - 2/17"
 "Escalator","Westlake Station","#308","Street level to mezzanine - Up Only","Mechanical","Tentative - 2/9"
+"Escalator","Westlake Station","#314","Up middle mezzanine Nordstroms - Up only","Mechanical","Tentative - 2/8"
+"Elevator","Mukilteo Station","#001","Yes","North side of Tracks - Street level to bridge","TBD","TBD"
+			Maintenance","Tentative - 2/09"
 			Maintenance","Tentative - 2/3"
 "Escalator","Westlake Station","#307","Mezzanine to street level - Down only","Mechanical","Tentative - 217"
 "Type","Service","Station","Unit #","Location","Reason","Estimated return"
