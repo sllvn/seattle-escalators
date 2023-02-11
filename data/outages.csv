@@ -1,22 +1,32 @@
 "Type","Station","Unit #","ADA critical","Location","Reason","Estimated return"
-"Elevator","Mukilteo Station","#001","Yes","North side of Tracks - Street level to bridge","Mechanical","Tentative - 2/13"
+"Elevator","Mukilteo Station","#001","Yes","North side of Tracks - Street level to bridge","Mechanical","Tentative - 2/11"
 "Elevator","Pioneer Square Station","#701","","Connecting platform to Northgate and north mezzanine","Mechanical","TBD"
+"Elevator","Pioneer Square
+			Station","#702","","Southbound platform to mezzanine","N/A","TBD"
 "Elevator","University Street Station","#506","Yes","Connecting south mezzanine to street level at 3rd Ave & Seneca St (Exit C)","Mechanical","Tentative - 2/17"
-"Elevator","Westlake Station","#301","","Southbound platform to mezzanine","Misuse","Tentative - 2/10"
-"Elevator","Westlake Station","#305","","Southbound mezzanine to surface - Bon Marche bldg.","Vandalism","Tentative - 2/10"
-"Elevator","Westlake Station","#306","","Northbound mezzanine to surface - Century Sq.","Mechanical","Tentative - 2/10"
+"Elevator","Westlake Station","#305","","Southbound mezzanine to surface - Bon Marche bldg.","Vandalism","Tentative - 2/13"
+"Elevator","Westlake Station","#306","","Northbound mezzanine to surface - Century Sq.","Mechanical","Tentative - 2/13"
 "Escalator","International District/
 
+			Chinatown Station","#901","Northbound platform to street level - Up Only","Scheduled
+			Maintenance","Tentative - 2/10"
 			Chinatown Station","#904","From platform to Angle Lake to street level","Environmental","TBD"
 "Escalator","Pioneer Square Station","#704","Southbound platform to mezzanine - Up only","Mechanical","Tentative - 2/24"
 "Escalator","SeaTac/Airport Station","#002","South station entrance from platform to street level - Up only","Power","TBD"
 "Escalator","Tukwila International
-			Boulevard Station","#004","South mezzanine to platform - Down only","Scheduled 
-			Maintenance","Tentative - 2/9"
+			Boulevard Station","#004","South mezzanine to platform - Down only","Mechanical","Tentative - 2/10"
+			Boulevard Station","#006","North mezzanine to platform - Up only","Scheduled
+"Escalator","University Street Station","#502","Southbound to street level - Up only","Mechanical","Tentative - 2/13"
 "Escalator","University Street Station","#506","Northbound street level to mezzanine - Down only","Mechanical","TBD"
 "Escalator","Westlake Station","#306","Mezzanine to Century Square - Up only","Mechanical","Tentative - 2/13"
 "Escalator","Westlake Station","#307","Mezzanine to street level - Down only","Mechanical","Tentative - 2/28"
 "Escalator","Westlake Station","#308","Street level to mezzanine - Up Only","Mechanical","Tentative - 2/17"
+"Elevator","Mukilteo Station","#001","Yes","North side of Tracks - Street level to bridge","Mechanical","Tentative - 2/13"
+"Elevator","Westlake Station","#301","","Southbound platform to mezzanine","Misuse","Tentative - 2/10"
+"Elevator","Westlake Station","#305","","Southbound mezzanine to surface - Bon Marche bldg.","Vandalism","Tentative - 2/10"
+"Elevator","Westlake Station","#306","","Northbound mezzanine to surface - Century Sq.","Mechanical","Tentative - 2/10"
+			Boulevard Station","#004","South mezzanine to platform - Down only","Scheduled 
+			Maintenance","Tentative - 2/9"
 "Elevator","Westlake Station","#301","","Southbound platform to mezzanine","Misuse","Tentative - 2/8"
 "Escalator","Pioneer Square Station","#704","Southbound platform to mezzanine - Up only","Mechanical","Tentative - 2/17"
 			Boulevard Station","#008","Street level to mezzanine - Down only","Scheduled 
