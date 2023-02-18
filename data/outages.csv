@@ -1,10 +1,9 @@
 "Type","Station","Unit #","ADA critical","Location","Reason","Estimated return"
-"Elevator","Canyon Park Freeway Station","#001","Yes","Southwest corner of park-and-ride","Scheduled Maintenance","Tentative - 2/16"
+"Elevator","Kent Station Garage","#001","","Northeast side of garage","Mechanical","TBD"
 "Elevator","Pioneer Square Station","#701","","Connecting platform to Northgate and north mezzanine","Mechanical","TBD"
-"Elevator","Pioneer Square Station","#706","","Southbound mezzanine to surface Prefontaine Park","Power","Tentative - 2/20"
 "Elevator","Westlake Station","#304","","Southbound middle platform to mezzanine","Vandalism","TBD"
 "Elevator","Westlake Station","#305","","Southbound mezzanine to surface - Bon Marche bldg.","Vandalism","TBD"
-"Elevator","Westlake Station","#306","","Northbound mezzanine to surface - Century Sq.","Mechanical","Tentative - 2/17"
+"Elevator","Westlake Station","#306","","Northbound mezzanine to surface - Century Sq.","Mechanical","Tentative - 2/22"
 "Escalator","Capitol Hill Station","#004","North mezzanine to platform","Misuse","TBD"
 "Escalator","International District/
 
@@ -15,6 +14,9 @@
 "Escalator","University Street Station","#506","Northbound street level to mezzanine - Down only","Mechanical","TBD"
 "Escalator","Westlake Station","#307","Mezzanine to street level - Down only","Mechanical","Tentative - 2/28"
 "Escalator","Westlake Station","#308","Street level to mezzanine - Up Only","Mechanical","Tentative - 2/21"
+"Elevator","Canyon Park Freeway Station","#001","Yes","Southwest corner of park-and-ride","Scheduled Maintenance","Tentative - 2/16"
+"Elevator","Pioneer Square Station","#706","","Southbound mezzanine to surface Prefontaine Park","Power","Tentative - 2/20"
+"Elevator","Westlake Station","#306","","Northbound mezzanine to surface - Century Sq.","Mechanical","Tentative - 2/17"
 "Escalator","Westlake Station","#313","Down middle mezzanine Nordstroms - Down only","TBD","TBD"
 "Elevator","Pioneer Square Station","#706","","Southbound mezzanine to surface Prefontaine Park","Power","TBD"
 "Escalator","Roosevelt Station","#006","Intermediate Landing to surface - South","TBD","TBD"
